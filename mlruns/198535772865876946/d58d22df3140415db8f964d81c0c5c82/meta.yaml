@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/198535772865876946/d58d22df3140415db8f964d81c0c5c82/artifacts
+end_time: 1734112417705
+entry_point_name: ''
+experiment_id: '198535772865876946'
+lifecycle_stage: active
+run_id: d58d22df3140415db8f964d81c0c5c82
+run_name: aged-perch-625
+run_uuid: d58d22df3140415db8f964d81c0c5c82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734112417612
+status: 3
+tags: []
+user_id: raksh

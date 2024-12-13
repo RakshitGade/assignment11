@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/62e47d6c90104516b4f4c49cde438bda/artifacts
+end_time: 1734120352387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62e47d6c90104516b4f4c49cde438bda
+run_name: bemused-crab-297
+run_uuid: 62e47d6c90104516b4f4c49cde438bda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734120342178
+status: 3
+tags: []
+user_id: raksh

@@ -1,0 +1,8 @@
+aliases:
+  production: '3'
+  staging: '2'
+  testing: '1'
+creation_timestamp: 1734113470129
+description: ''
+last_updated_timestamp: 1734113849561
+name: basic_lr_iris_model

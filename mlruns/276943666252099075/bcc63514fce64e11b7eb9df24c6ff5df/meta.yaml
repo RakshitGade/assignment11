@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/276943666252099075/bcc63514fce64e11b7eb9df24c6ff5df/artifacts
+end_time: 1734113470189
+entry_point_name: ''
+experiment_id: '276943666252099075'
+lifecycle_stage: active
+run_id: bcc63514fce64e11b7eb9df24c6ff5df
+run_name: clean-panda-446
+run_uuid: bcc63514fce64e11b7eb9df24c6ff5df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734113465077
+status: 3
+tags: []
+user_id: raksh

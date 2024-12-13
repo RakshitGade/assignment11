@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8d01c574035549b7aace27484be374ac/artifacts
+end_time: 1734112247828
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d01c574035549b7aace27484be374ac
+run_name: trusting-turtle-806
+run_uuid: 8d01c574035549b7aace27484be374ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734112234375
+status: 3
+tags: []
+user_id: raksh
