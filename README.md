@@ -38,3 +38,7 @@ Environment Variable Adjustments:
 •  Model Not Found Challenge:
 •	Encountered errors when attempting to deploy the registered model, such as:
 o	Could not find a registered artifact repository for: model:/basic_lr_iris_model/3.
+
+
+Dropletname: 146.190.167.170
+access link: http://146.190.167.170:5000/
